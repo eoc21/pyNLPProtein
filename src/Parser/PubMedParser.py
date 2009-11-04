@@ -6,7 +6,6 @@ A class to parse and extract abstracts from pubMed.
 import os, sys
 from Bio import Entrez
 from Bio import Medline
-
 class PubMedParser():
     """
     Class to parse PDZ domain protein records
